@@ -1,0 +1,7 @@
+
+LIC*.*
+*.o
+*.a
+*~
+*.exe
+file*.txt
